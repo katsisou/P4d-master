@@ -43,7 +43,7 @@ h1 {
 /*text for pages*/
 .text {
 	margin: auto;
-	padding-top: 20px;
+	padding-top: 15px;
 	text-align: center;
 	text-transform: lowercase;
 	font-family: arial;
@@ -79,7 +79,7 @@ main 	{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	padding-top: 250px;
+	padding-top: 240px;
   }
   
   body {
